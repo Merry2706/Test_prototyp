@@ -2,5 +2,5 @@
 "akku" = "La batterie est presque vide !\
  Retire la \"batterie\" pour la recharger. \
 Cela contribue à augmenter sa durée de vie.";
-"forget" = "\
+"forget-forger" = "\
 Ignorer l'vehicle en cours%d";
