@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="title">Vamos </string>
+  <string name="akku">¡La batería está casi vacía!
+ Retire \"la batería\" y cárguela.
+ Esto ayuda a prolongar su vida útil.</string>
+  <string name="forget">
+Olvidar vehículo %d</string>
+</resources>
