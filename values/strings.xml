@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="title">Let\'s go </string>
+  <string name="akku">The battery is almost empty!
+ Please remove \"the battery\" and charge it.
+ This helps to extend its lifetime.</string>
+  <string name="forget">
+Forget vehicle%d</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="title">C\'est parti</string>
+  <string name="akku">La batterie est presque vide !
+ Retire la \"batterie\" pour la recharger. 
+Cela contribue à augmenter sa durée de vie.</string>
+  <string name="forget">
+Ignorer l\'vehicle en cours%d</string>
+</resources>
